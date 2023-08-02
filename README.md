@@ -1,0 +1,1 @@
+# smart-gym-trainer-using-pose-estimation-with-YOLOV7
